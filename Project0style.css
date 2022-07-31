@@ -1,0 +1,41 @@
+
+#goog {
+    margin: auto;
+    padding: 50px;
+    Width: 400px;
+    text-align: center;
+}
+.top {
+    height: 50px;
+}
+#top-right {
+    float: right;
+    width: 220px;
+}
+a{
+    font-size: 12px;
+    font-family: cursive;
+    text-decoration: none;
+    color:rgb(104, 104, 104);
+    padding: 15px;
+}
+a:hover {
+    text-decoration: underline;
+}
+input{
+    margin: 4px;
+    border: 1px solid;
+    border-color: rgb(212, 197, 197);
+    border-radius: 10px;
+    height: 30px;
+    font-size: 8;
+}
+input:hover{
+    border:1px rgb(150, 134, 134) solid;
+}
+#searchbar{
+    width: 400px;
+}
+.buttons{
+    border: none;
+}
